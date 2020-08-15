@@ -28,7 +28,7 @@ SECRET_KEY = '@eu3k49l$)gsm2lkw)kvn4dr)^$5x!^8%=ck&+fk4xohz@3+w3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['kodland-test-assignment.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = []
 
 
 
