@@ -1,2 +1,2 @@
-web: gunicorn launchpad_clone.wsgi --log-file -
+web: gunicorn kodland_test.wsgi --log-file -
 
