@@ -132,6 +132,3 @@ STATIC_URL = '/static/'
 
 MEDIA_URL = '/images_folder/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'images')
-
-# Activate Django-Heroku.
-django_heroku.settings(locals())
